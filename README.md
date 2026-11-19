@@ -102,8 +102,15 @@ Use `-NoPause` for non-interactive builds. `BUILD.bat` is a convenience wrapper.
 ├── README.md          # this file
 ├── README.zh-CN.md    # Chinese readme
 ├── CHANGELOG.md       # version history
+├── LICENSE            # MIT license
 └── NEXUS_DESCRIPTION.md  # Nexus Mods description (BBCode)
 ```
+
+## License
+
+Released under the [MIT License](LICENSE). You are free to use, modify and redistribute the
+source code and the compiled release files, provided the copyright notice and license text are
+kept.
 
 ## Credits
 

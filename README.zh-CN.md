@@ -96,8 +96,13 @@ cd BulletTime
 ├── README.md          # 英文说明
 ├── README.zh-CN.md    # 本文件
 ├── CHANGELOG.md       # 版本变更记录
+├── LICENSE            # MIT 许可证
 └── NEXUS_DESCRIPTION.md  # Nexus Mods 简介文案（BBCode）
 ```
+
+## 许可证
+
+本项目以 [MIT 许可证](LICENSE) 发布。在保留版权声明与许可证原文的前提下，可自由使用、修改与再分发源码及编译产物。
 
 ## 致谢
 
